@@ -5,9 +5,9 @@ sin modificar ningun archivo del repositorio. Registrar aqui los resultados.
 
 | Ejecucion | Duracion | URL |
 |---|---|---|
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| 1 | 55s   | https://github.com/sheshe0529/INF384-lab2-20220666/actions/runs/34473664732 |
+| 2 | 1m 9s | https://github.com/sheshe0529/INF384-lab2-20220666/actions/runs/34473847551 |
+| 3 | 1m 13s | https://github.com/sheshe0529/INF384-lab2-20220666/actions/runs/34474055457 |
 
 ## Declaracion de uso de IA generativa
 
